@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Student can’t login to the account",
+        "description": "i. Check the student number and email is correct\n ii. Ask which website specifically student is trying to login\n iii. Ask what error message the student is getting.\n iv. If student is in school, the teacher can reset the password\n v. For VS, we can reset the password in SAMS\n vi. Provide SSPW if needed"
+    },
+    {
+        "id": 2,
+        "title": "Student account is locked or disabled",
+        "description": "i. Check on SAMS.\n ii. If locked, you will find the unlocked option. If disabled, you will find the enabled option.\n  iii. Ask for the student’s email to verify the student.\n iv. Search on ServiceIT by student number, you will find a ticket created by SOAR for that account\n v. Include the ticket number in your work notes."
+    },
+    {
+        "id": 3,
+        "title": "Student account is not on SAMS",
+        "description": "i. Check on PS on District Search.\n ii. The status has to be active.\n iii. Otherwise, ask the student to contact the school to activate the account."
+    },
+    {
+        "id": 4,
+        "title": "The password has been reset but the SSPW is not working",
+        "description": "i. Check the email is correct or not.\n ii. Check the SSPW is correct or not.\n iii. Ask to login incognito mode\n iv. If that doesn’t work, ask to use mobile phone.\n v. You can also try incognito mode on your laptop to see if the updated password option pops up or not.\n vi. Also, sometimes SSPW doesn’t work right away after password reset. Make sure the SSPW is correct and ask to wait a couple of minutes and then try to login."
+    }
+]

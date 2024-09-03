@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "Chromebook is not turning on",
+        "description": "i. Check the KB to follow the procedure.\n ii. Powerwash is the basic troubleshooting step for any Chromebook issue. Ask the parent or student first, as it will wipe the local data from the Chromebook."
+    },
+    {
+        "id": 2,
+        "title": "Cannot log in to Chromebook",
+        "description": "i. Ask to use any other device to make sure the student is entering the correct credentials or to check if there is any issue with the account.\n ii. If everything is fine, ask to remove the account from the Chromebook and add it again."
+    },
+    {
+        "id": 3,
+        "title": "Chromebook hardware issues",
+        "description": "i. For hardware issues, they need to bring the device to school, and the teacher can log a ticket for that device to be checked by a technician. In the meantime, the student will get a temporary device or not, depending on the school’s spare device availability.\n ii. If the charger is missing or lost, they need to contact the school about it; the school will decide what to do."
+    },
+    {
+        "id": 4,
+        "title": "Chromebook new software request",
+        "description": "i. The teacher can put in a request for any software they want additionally for any particular student.\n ii. Parents will mostly ask about Block-Si software, which is used for blocking sites while browsing. You can get the REQ number and check the status of the request for that. Look in the KB for more info about BlockSi."
+    },
+    {
+        "id": 5,
+        "title": "Chromebook hardware issue for VS",
+        "description": "i. The student needs to contact Linda Edwards; provide the contact info of her to the students."
+    }
+]
+

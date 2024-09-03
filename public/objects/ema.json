@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Parent never opened an account before",
+        "description": "i. Ask to create an account.\n ii. Check on PS, make sure of three things:\n a. Parent has to use the same email which you can see in the parent’s section on the student file\n b. Parent and student have to have the same postal code\n c. Parent needs to have access as a legal guardian and lives with the student; you can check that by the tick marks.\n iii. If any of these are missing, ask to contact the school to make changes accordingly and wait for at least 24 to 48 hours.\n iv. Parent often forgets to click the verify button to get a verification code; without that, the submit button will not be activated.\n v. They will see the ongoing excursion on the landing page when they log in.\n vi. If not, they need to contact the teacher.\n vii. Parent can ask for a hard copy from the school if they want to."
+    },
+    {
+        "id": 2,
+        "title": "Parent has an account but password is not working",
+        "description": "i. Parent will click on the forgot password option and will get a code to the email that they used to open the account.\n ii. If it says the email cannot be found or is not in the system, ask them to create an account."
+    },
+    {
+        "id": 3,
+        "title": "Parent has multiple children, can see one but cannot see others",
+        "description": "i. Check on PS; the three things have to be the same for every child. Every child’s parent section has to have the same email that was used to create the account, every child’s postal code has to be the same, and the parent has to have access as a legal guardian and lives with for every child.\n ii. If any of that is missing, tell the parent specifically which child it is and what information needs to be updated.\n iii. If everything is good on PS, but the parent still can’t see, make a ticket including all the screenshots and send it to MWD."
+    },
+    {
+        "id": 4,
+        "title": "Parent having issues with school cash payment",
+        "description": "i. School cash or KEV has some FAQs on their site to help the user with common issues.\n ii. School cash has their own help desk for assistance; provide the contact info to the parent."
+    }
+]

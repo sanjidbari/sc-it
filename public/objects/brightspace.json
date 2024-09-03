@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Student can’t put any credentials, it directly shows ‘Account does not exist in our system’ or something similar",
+        "description": "i. Ask the student to login with incognito mode.\n ii. If the student can log in on incognito mode, ask them to clear the cache and cookies from the browser.\n iii. It usually happens to other board students who transferred to TDSB.\n iv. The reason it’s happening is that the browser is automatically entering the saved credentials from their previous board."
+    },
+    {
+        "id": 2,
+        "title": "Student can enter credentials but it shows ‘Authentication error’ after entering the password",
+        "description": "i. Check on BS if the student is there or not.\n ii. Check on PS if the student is active or not.\n iii. If the student is not active on PS, ask them to contact the school.\n iv. If the student is active on PS but can’t be found on BS, create a ticket including all screenshots, and it will go to App Admin-Desktop."
+    },
+    {
+        "id": 3,
+        "title": "Student can’t see the course",
+        "description": "i. Impersonate the student to check the issue.\n ii. Check on PS in the ‘Course Registration’ section, you will find the courses the student has enrolled in and the teacher’s first and last name as well.\n iii. Also, in the ‘Bell Schedule’ option, you will see the timetable of the courses the student enrolled in, including the teacher’s first and last name.\n iv. For VS, give the teacher’s email address and ask the student to email the teacher, as the teacher has to activate the course for them.\n v. For in-person, ask the student to contact the teacher or ask the teacher to contact CSD."
+    }
+]
+
