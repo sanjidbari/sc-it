@@ -13,6 +13,11 @@
         "id": 3,
         "title": "Student can’t see the course",
         "description": "i. Impersonate the student to check the issue.\n ii. Check on PS in the ‘Course Registration’ section, you will find the courses the student has enrolled in and the teacher’s first and last name as well.\n iii. Also, in the ‘Bell Schedule’ option, you will see the timetable of the courses the student enrolled in, including the teacher’s first and last name.\n iv. For VS, give the teacher’s email address and ask the student to email the teacher, as the teacher has to activate the course for them.\n v. For in-person, ask the student to contact the teacher or ask the teacher to contact CSD."
+    },
+    {
+        "id": 4,
+        "title": "TDSB Brightspace support site",
+        "description": "Please, refer parent or student to this site if they need instructions how to navigate on Brightspace site. Link: https://sites.google.com/tdsb.on.ca/tdsbvle/home?authuser=0"
     }
 ]
 
