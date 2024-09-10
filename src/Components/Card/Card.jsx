@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Card = ({ item }) => {
+    
     const { id, path, img } = item;
     return (
         <div>

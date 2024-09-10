@@ -9,18 +9,24 @@ const Banner = () => {
     const [card, setCard] = useState([]);
 
     useEffect(() => {
-        fetch('../../../public/objects/data.json')
+        fetch('objects/data.json')
             .then(res => res.json())
             .then(data => setCard(data))
     }, []);
 
     return (
-        <div className='grid md:grid-cols-3 grid-cols-1 gap-10 justify-evenly'>
-            {
-                card.map(item => <Card 
-                key={item.id}
-                item={item}></Card>)
-            }
+        <div>
+            <div>
+            <img src="img/logo.png" className='ml-auto mr-auto w-96' alt="" />
+            <hr/>
+            </div>
+            <div className='p-14 grid md:grid-cols-3 grid-cols-1 gap-10 justify-evenly'>
+                {
+                    card.map(item => <Card
+                        key={item.id}
+                        item={item}></Card>)
+                }
+            </div>
         </div>
     );
 };

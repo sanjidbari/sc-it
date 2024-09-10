@@ -2,41 +2,41 @@
     {
         "id": 1,
         "path": "Account",
-        "img": "../img/banner.png"
+        "img": "img/account.png"
     },
     {
         "id": 2,
         "path": "Brightspace",
-        "img": "../img/bs.png"
+        "img": "img/bs.png"
     },
     {
         "id": 3,
         "path": "EMA",
-        "img": "../img/ema.png"
+        "img": "img/ema.png"
     },
     {
         "id": 4,
         "path": "Chromebook",
-        "img": "../img/chromebook.png"
+        "img": "img/chromebook.png"
     },
     {
         "id": 5,
         "path": "TDSB Connects",
-        "img": "../img/connects.png"
+        "img": "img/connects.png"
     },
     {
         "id": 6,
         "path": "Ticket",
-        "img": "../img/ticket.png"
+        "img": "img/ticket.png"
     },
     {
         "id": 7,
         "path": "Contacts",
-        "img": "../img/contacts.png"
+        "img": "img/contacts.png"
     },
     {
         "id": 8,
         "path": "Summer School",
-        "img": "../img/ss.png"
+        "img": "img/ss.png"
     }
 ]

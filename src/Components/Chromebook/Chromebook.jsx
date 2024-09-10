@@ -1,11 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import chromebook from '../../../public/objects/chromebook.json'
 
 const Chromebook = () => {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        fetch('../../../public/objects/chromebook.json')
+        fetch('objects/chromebook.json')
             .then(res => res.json())
             .then(data => setData(data))
     }, []);

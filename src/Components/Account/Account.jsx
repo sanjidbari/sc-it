@@ -1,11 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import account from '../../../public/objects/account.json';
 
 const Account = () => {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        fetch('../../../public/objects/account.json')
+        fetch('objects/account.json')
             .then(res => res.json())
             .then(data => setData(data))
     }, []);

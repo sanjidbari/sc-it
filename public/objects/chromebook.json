@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Chromebook is not turning on",
-        "description": "i. Check the KB to follow the procedure.\n ii. Powerwash is the basic troubleshooting step for any Chromebook issue. Ask the parent or student first, as it will wipe the local data from the Chromebook."
+        "description": "i. Check the KB to follow the procedure.\n ii. Powerwash is the basic troubleshooting step for any Chromebook issue. Ask the parent or student first, as it will wipe the local data from the Chromebook. \niii. Powerwash or Reset a Chromebook: https://tdsb.service-now.com/sp?id=kb_article&sysparm_article=KB0000555 \niv. Chromebook Won't Turn On or Won't Charge: https://tdsb.service-now.com/sp?id=kb_article&sysparm_article=KB0003398"
     },
     {
         "id": 2,
@@ -12,26 +12,41 @@
     {
         "id": 3,
         "title": "Chromebook hardware issues",
-        "description": "i. For hardware issues, they need to bring the device to school, and the teacher can log a ticket for that device to be checked by a technician. In the meantime, the student will get a temporary device or not, depending on the school’s spare device availability."
+        "description": "For hardware issues, they need to bring the device to school, and the teacher can log a ticket for that device to be checked by a technician. In the meantime, the student will get a temporary device depending on the school’s spare device availability."
     },
     {
         "id": 4,
         "title": "Chromebook Charger",
-        "description": "i. The school will have to purchase a new charger for the student.\n ii. This can be done using the Technology Catalogue: https://tdsb.service-now.com/sp?id=technology_catalog&sys_id=b9e1adf1db13638cb040349f9d961930\n iii. You can also find this page by going to the ServiceIT home page > Selecting 'Service Catalogue' > Selecting 'Browse the Technology Catalogue' >  Selecting 'Accessories & Peripherals' on the left hand side > Selecting 'Chargers & Power Adapters'"
+        "description": "i. The school will have to purchase a new charger for the student.\n ii. This can be done using the Technology Catalogue: https://tdsb.service-now.com/sp?id=technology_catalog&sys_id=b9e1adf1db13638cb040349f9d961930\n iii. You can also find this page by going to the ServiceIT home page > Selecting 'Service Catalogue' > Selecting 'Browse the Technology Catalogue' >  Selecting 'Accessories & Peripherals' on the left-hand side > Selecting 'Chargers & Power Adapters'"
     },
     {
         "id": 5,
         "title": "Chromebook new software request",
-        "description": "i. The teacher can put in a request for any software they want additionally for any particular student.\n ii. The form will be filled up by the teacher "
+        "description": "i. The teacher can put in a request for any software they want additionally for any particular student.\nii. The form is 'Windows/Mac Software Request'. \niii. The form will be filled out by the teacher."
     },
     {
         "id": 6,
+        "title": "1:1 Device Assignment",
+        "description": "i. The teacher has to fill out the form to assign or reassign a 1:1 device to a student. \nii.Link: https://tdsb.service-now.com/sp?id=sc_cat_item&sys_id=80d52a2adb118a500acac689139619e9"
+    },
+    {
+        "id": 7,
+        "title": "Chromebook is lost, Stolen or Found",
+        "description": "i. The teacher has to fill out the form to report for a Chromebook. \nii. The form is 'Report a Lost/Stolen/Found TDSB Device'.\niii. It will lock device so no one can use the device anymore. \niv. Also when they found the device, same form needs to be filled out to unlock the device."
+    },
+    {
+        "id": 8,
+        "title": "Chromebook or any other Security Investigation",
+        "description": "i. The Principal, VP or teachers has to fill out the form to request any cyber security investigation.\nii. The form is 'Cyber Security Investigation Requests'."
+    },
+    {
+        "id": 9,
         "title": "Chromebook Parental Control - Blocksi",
         "description": "i. Parent have to contact your child’s school main office, and request Blocksi.\n ii. The Principal or Vice-Principal will need to make request on their behalf.\n iii. Read and forward this article to Parent for more info, Link: https://docs.google.com/document/d/1KyBrU-STSMMgfzHLLGsn5w38VpddxxMbrMIyLvCOO90/edit#heading=h.hdpeo3kyokic"
     },
     {
-        "id": 7,
-        "title": "Chromebook hardware issue for VS",
+        "id": 10,
+        "title": "Chromebook hardware issue for Virtual Student",
         "description": "i. The student needs to contact Linda Edwards, 416-396-6818; provide the contact info of her to the students."
     }
 ]

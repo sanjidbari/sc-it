@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react';
-import connects from '../../../public/objects/connects.json'
+
 
 const Connects = () => {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        fetch('../../../public/objects/connects.json')
+        fetch('objects/connects.json')
             .then(res => res.json())
             .then(data => setData(data))
     }, []);

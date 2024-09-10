@@ -1,11 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import ema from '../../../public/objects/ema.json'
 
 const EMA = () => {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        fetch('../../../public/objects/ema.json')
+        fetch('objects/ema.json')
             .then(res => res.json())
             .then(data => setData(data))
     }, []);
